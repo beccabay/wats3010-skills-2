@@ -1,0 +1,14 @@
+
+
+p:nth-child(even) {
+    font-family: 'Oswald', sans-serif;
+}
+  
+  p:nth-child(odd) {
+    font-family: 'Inconsolata', monospace;
+}
+
+h1{
+    font-family: 'Inconsolata', monospace;
+}
+
